@@ -1,0 +1,36 @@
+<style>
+        html {
+          background-color: linen;
+        }
+
+        body {
+          width: 100 px;
+          margin: 5 auto;
+          padding: 80px 250px 0px;
+          border: 5px solid black;
+          background-color: white;
+        }
+
+        h2 {
+       color: ##00ff00;
+       text-align: center;
+       font: italic 200% fantasy;
+      }
+
+
+
+        .green{
+        background-color: #00ff00;
+        font-size: 50px;
+        }
+        .darkgreen{
+        background-color: #53ac53;
+        font-size: 50px;
+        }
+
+        .right{
+         display: block;
+         margin-left: auto;
+         
+         width: 40%;
+       }
